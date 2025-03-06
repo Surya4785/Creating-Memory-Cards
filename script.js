@@ -15,16 +15,16 @@ const cardsElement = [];
 
 const cardsData = [
   {
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheets",
+    question: "What is your name?",
+    answer: "Surya",
   },
   {
-    question: "What year was JavaScript launched?",
-    answer: "1995",
+    question: "What is your date of birth?",
+    answer: "17 Feb, 2004",
   },
   {
-    question: "What does HTML stand for?",
-    answer: "Hypertext Markup Language",
+    question: "What do you like the most?",
+    answer: "Music & Poetry",
   },
 ];
 
